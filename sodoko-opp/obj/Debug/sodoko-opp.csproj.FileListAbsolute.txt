@@ -1,0 +1,8 @@
+C:\Users\AMIR\OneDrive\Desktop\sodoko-opp\sodoko-opp\bin\Debug\sodoko-opp.exe.config
+C:\Users\AMIR\OneDrive\Desktop\sodoko-opp\sodoko-opp\bin\Debug\sodoko-opp.exe
+C:\Users\AMIR\OneDrive\Desktop\sodoko-opp\sodoko-opp\bin\Debug\sodoko-opp.pdb
+C:\Users\AMIR\OneDrive\Desktop\sodoko-opp\sodoko-opp\obj\Debug\sodoko-opp.csproj.AssemblyReference.cache
+C:\Users\AMIR\OneDrive\Desktop\sodoko-opp\sodoko-opp\obj\Debug\sodoko-opp.csproj.SuggestedBindingRedirects.cache
+C:\Users\AMIR\OneDrive\Desktop\sodoko-opp\sodoko-opp\obj\Debug\sodoko-opp.csproj.CoreCompileInputs.cache
+C:\Users\AMIR\OneDrive\Desktop\sodoko-opp\sodoko-opp\obj\Debug\sodoko-opp.exe
+C:\Users\AMIR\OneDrive\Desktop\sodoko-opp\sodoko-opp\obj\Debug\sodoko-opp.pdb
